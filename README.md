@@ -1,6 +1,6 @@
 # Demo
 
 Some Description or whatever...
-Hej Nikodem
+W
 
 # Whatever is here...
